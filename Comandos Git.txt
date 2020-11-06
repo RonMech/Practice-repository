@@ -1,0 +1,17 @@
+-	Working direcory: Donde se desarrollan los archivos:
+-	Staging área: Donde se agregan los archivos que se preparan apra el guardado y las versiones de estos, ej: versión 1, versión 2, etc.
+
+
+Comandos:
+•	git init: Empezar a utilizar git en un proyecto
+•	git add <file>: Poder pasar los archivos del working directory al staging area
+•	git status: Verificar en cuál de los 3 estados se encuentran los archivos
+•	git commit: Pasar los archivos (código) desde el staging area hacia un repository. Crear un primer snapshot
+•	git push: Subir a un repositorio remoto
+•	git pull: Traer los cambios que han hecho otros desarrolladores sobre el código
+•	git clone: Hacer una copia desde el servidor central (donde está el código) hacia tu computadora para poder trabajar.
+
+
+Para cambiar de diso en la pc: tienes que digitar:  D:  y listo!!
+Para poder navegar en las carpetas desde el BASH de GIT, el nombre de la carpeta debe ir entre comillas “”. 
+g
